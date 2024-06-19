@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: pasan-test-prod
+  labels:
+    environmentId: env_869bf3f8-a609-4f98-be42-7487d62000bf
+    projectId: project_25d97b21-0f94-4051-98e4-58c689ea716a
+    projectName: pasan-test
+    environmentName: prod
+    organizationId: org_6de1b366-9da6-4d55-b363-f5a2c4382016

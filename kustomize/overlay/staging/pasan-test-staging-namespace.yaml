@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: pasan-test-staging
+  labels:
+    environmentId: env_d43687df-8628-4888-b208-8703afe9fbbe
+    projectId: project_25d97b21-0f94-4051-98e4-58c689ea716a
+    projectName: pasan-test
+    environmentName: staging
+    organizationId: org_6de1b366-9da6-4d55-b363-f5a2c4382016
